@@ -1,0 +1,6 @@
+{
+  "name": "MarketMind",
+  "description": "Expert financial analyst AI for real-time stock sentiment analysis and market insights using Gemini 2.0 Flash.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["AI Analysis", "Financial Data Visualization"]
+}
